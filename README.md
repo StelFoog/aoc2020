@@ -13,24 +13,24 @@ My Advent of Code 2020 using JavaScript with Node.js.
 - [x] Day 3
   - [x] Task 1
   - [x] Task 2
-- [ ] Day 4
-  - [ ] Task 1
-  - [ ] Task 2
-- [ ] Day 5
-  - [ ] Task 1
-  - [ ] Task 2
-- [ ] Day 6
-  - [ ] Task 1
-  - [ ] Task 2
-- [ ] Day 7
-  - [ ] Task 1
-  - [ ] Task 2
-- [ ] Day 8
-  - [ ] Task 1
-  - [ ] Task 2
-- [ ] Day 9
-  - [ ] Task 1
-  - [ ] Task 2
+- [x] Day 4
+  - [x] Task 1
+  - [x] Task 2
+- [x] Day 5
+  - [x] Task 1
+  - [x] Task 2
+- [x] Day 6
+  - [x] Task 1
+  - [x] Task 2
+- [x] Day 7
+  - [x] Task 1
+  - [x] Task 2
+- [x] Day 8
+  - [x] Task 1
+  - [x] Task 2
+- [x] Day 9
+  - [x] Task 1
+  - [x] Task 2
 - [ ] Day 10
   - [ ] Task 1
   - [ ] Task 2
