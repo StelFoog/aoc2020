@@ -19,7 +19,7 @@ My Advent of Code 2020 using JavaScript with Node.js.
 - [x] Day 5
   - [x] Task 1
   - [x] Task 2
-- [x] Day 6
+- [x] Day 6 (Bday)
   - [x] Task 1
   - [x] Task 2
 - [x] Day 7
@@ -40,9 +40,9 @@ My Advent of Code 2020 using JavaScript with Node.js.
 - [x] Day 12
   - [x] Task 1
   - [x] Task 2
-- [ ] Day 13
-  - [ ] Task 1
-  - [ ] Task 2
+- [x] Day 13 (Lucia)
+  - [x] Task 1
+  - [x] Task 2
 - [ ] Day 14
   - [ ] Task 1
   - [ ] Task 2
@@ -73,12 +73,15 @@ My Advent of Code 2020 using JavaScript with Node.js.
 - [ ] Day 23
   - [ ] Task 1
   - [ ] Task 2
-- [ ] Day 24
+- [ ] Day 24 (Christmas Eve)
   - [ ] Task 1
   - [ ] Task 2
+- [ ] Day 25 (Chistmas Day)
+  - [ ] Task 2
+  - [ ] Task 3
 
 ### Usage
 
-Place input file (with name `input`) in same folder as code.
+Place input file (with name `input`) in same folder as code. It is assumed that `input` has a final newline and is necisary for some tasks.
 
 Run code with `node d-t.js` for day `d`, task `t`.
