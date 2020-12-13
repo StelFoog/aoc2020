@@ -82,6 +82,6 @@ My Advent of Code 2020 using JavaScript with Node.js.
 
 ### Usage
 
-Place input file (with name `input`) in same folder as code. It is assumed that `input` has a final newline and is necisary for some tasks.
+Place input file (with name `input`) in same folder as code. It is assumed that `input` has a final newline and is necessary for some tasks.
 
 Run code with `node d-t.js` for day `d`, task `t`.
