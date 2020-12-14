@@ -43,9 +43,9 @@ My Advent of Code 2020 using JavaScript with Node.js.
 - [x] Day 13 (Lucia)
   - [x] Task 1
   - [x] Task 2
-- [ ] Day 14
-  - [ ] Task 1
-  - [ ] Task 2
+- [x] Day 14
+  - [x] Task 1
+  - [x] Task 2
 - [ ] Day 15
   - [ ] Task 1
   - [ ] Task 2
