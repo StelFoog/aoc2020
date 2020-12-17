@@ -52,9 +52,9 @@ My Advent of Code 2020 using JavaScript with Node.js.
 - [x] Day 16
   - [x] Task 1
   - [x] Task 2
-- [ ] Day 17
-  - [ ] Task 1
-  - [ ] Task 2
+- [x] Day 17
+  - [x] Task 1
+  - [x] Task 2
 - [ ] Day 18
   - [ ] Task 1
   - [ ] Task 2
