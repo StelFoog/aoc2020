@@ -48,7 +48,7 @@ My Advent of Code 2020 using JavaScript with Node.js.
   - [x] Task 2
 - [x] Day 15
   - [x] Task 1
-  - [x] Task 2 // Very slow. To fix, replace `past` with some thing working in `O(1)` or `O(ln(n))`
+  - [x] Task 2 –– Very slow. To fix, replace `past` with some thing working in `O(1)` or `O(ln(n))`
 - [x] Day 16
   - [x] Task 1
   - [x] Task 2
@@ -58,9 +58,9 @@ My Advent of Code 2020 using JavaScript with Node.js.
 - [x] Day 18
   - [x] Task 1
   - [x] Task 2
-- [ ] Day 19
-  - [ ] Task 1
-  - [ ] Task 2
+- [x] Day 19
+  - [x] Task 1
+  - [x] Task 2
 - [ ] Day 20
   - [ ] Task 1
   - [ ] Task 2
